@@ -3,6 +3,6 @@ venv_jus\
 venv_jus/
 
 # Ignorar requirements
-requirements.txt/
+requirements.txt
 requirements.txt\
 
