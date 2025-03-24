@@ -6,3 +6,7 @@ venv_jus/
 requirements.txt
 requirements.txt\
 
+# Ignorar base de datos por confidencialidad
+Exptes_data.xlsx
+Exptes_data.xlsx\
+
